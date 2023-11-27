@@ -9,6 +9,7 @@ body {
 }
 
 header {
+    margin-top: 100vh;
     height: 160px;
     background: linear-gradient(-180deg, #f53d2d, #f63);
 }
